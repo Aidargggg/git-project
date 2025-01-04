@@ -8,3 +8,6 @@ function goodbye() {
 function thanks() {
   
 }
+function new_function() {
+  
+}
