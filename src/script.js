@@ -9,5 +9,5 @@ function thanks() {
   
 }
 function new_function() {
-  
+  console.log("Hello new");
 }
